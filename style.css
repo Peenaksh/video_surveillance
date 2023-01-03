@@ -1,0 +1,47 @@
+body{
+    background-size: cover;
+}
+.heading {
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+}
+#start{
+    border-radius: 100cm;
+    height: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    border: solid 10px white;
+    color: black;
+    background-color: yellow;
+}
+#no_of_objects{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    border: solid 5px brown;
+    color: black;
+    background-color: lightcoral;
+}
+#status{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    border: solid 5px brown;
+    color: black;
+    background-color: greenyellow;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width:100%;
+    background-color: red;
+    font-size: 30px;
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+canvas{
+    border: 5px solid black;
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 20px;
+    margin-top: 130px;
+}
